@@ -69,6 +69,5 @@ For a comprehensive guide on how to play UNO, please refer to the official game 
 
 We hope you enjoy our implementation of the UNO game in C++. Please feel free to explore the code, try different difficulty levels, and provide any feedback you may have. Remember, this project was created with a passion for coding and game development.
 
-Thank you for checking out our repository!
+Thank you for checking out my repository!
 
-\- The UNO Game Development Team
